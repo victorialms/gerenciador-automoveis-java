@@ -1,0 +1,28 @@
+# Arquivo de dados gerado pela aplicação
+automoveis.txt
+
+# Arquivos Java compilados
+*.class
+
+# Pastas comuns de saída de compilação
+bin/
+out/
+build/
+
+# Configurações específicas de IDEs comuns
+
+# IntelliJ IDEA
+.idea/
+*.iml
+
+# Eclipse
+.project
+.classpath
+.settings/
+
+# NetBeans
+nbproject/
+dist/ # Pasta de distribuição do NetBeans
+
+# Visual Studio Code (se usado para Java)
+.vscode/
